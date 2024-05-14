@@ -1,0 +1,11 @@
+@media all and (max-width: 320px){
+   h2{color:black;} 
+}
+.country-section{
+   flex: 1;
+   background-color: rgb(227, 125, 0.5);
+   justify-content: center;
+   align-content: center;
+   padding: 20px;
+   border: 20px;
+}
